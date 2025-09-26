@@ -65,4 +65,4 @@ B.Tech CSE | Aspiring Software Developer | Currently diving into the MERN Stack 
 
 ---
 
-**“Code hard, keep learning, stay curious!” 👨‍💻🚀**
+| **“Code hard, keep learning, stay curious!” 👨‍💻🚀**
