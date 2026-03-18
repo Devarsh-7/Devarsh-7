@@ -13,7 +13,7 @@ B.Tech CSE | Aspiring Software Developer | Currently diving into the MERN Stack 
 
 ## 🚀 Top Skills & Technologies
 
-- **Languages:** Java, Python (basics)  
+- **Languages:** Java, Python (basics), JavaScript (ES6+)
 - **Web:** HTML, CSS, Bootstrap, React  
 - **Stack:** MERN (MongoDB, Express, React, Node.js)  
 - **Tools:** Git & GitHub, Docker, VS Code  
