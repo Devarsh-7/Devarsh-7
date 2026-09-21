@@ -70,7 +70,7 @@ An end-to-end AI resume analysis platform that parses uploaded resumes, evaluate
 | **Performance** | Structured JSON schema enforcement for consistent, low-latency AI response parsing |
 | **Security** | Hashed-OTP email verification, JWT-based session auth, Google OAuth integration |
 | **Impact** | Automated resume evaluation pipeline including a PDF/DOCX parsing layer and AI Humanizer feature |
-| **Repository** | [github.com/your-username/resumify](https://github.com/your-username/Resumify) |
+| **Repository** | [github.com/your-username/resumify](https://github.com/Devarsh-7/Resumify) |
 
 Resumify reflects a backend-first engineering approach: dual-mode AI analysis logic, schema-driven AI outputs for reliability, and a secure authentication layer — designed to function as a real product rather than a class assignment.
 
